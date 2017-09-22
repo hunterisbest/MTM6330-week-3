@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jaspreetgrewal/MTM6330-week-2#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.8.2"
   }
